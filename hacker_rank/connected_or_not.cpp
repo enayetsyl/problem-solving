@@ -2,34 +2,40 @@
 
 using namespace std;
 
+const int max_n = 1000;
+bool matrix[max_n][max_n];
+
 int main(){
   int N, E;
   cin >> N >> E;
 
-  int matrix[N][N];
-  memset(matrix, 0, sizeof(matrix));
-
-
-  for(int i=0; i<N; i++){
-    for(int j=0; j<N; j++){
-      if(i==j){
-        matrix[i][j] = 1;
-      }
+  for (int i =0 ; i<N; i++){
+    for (int j=0; j<N; j++){
+      matrix[i][j] = false;
     }
   }
+
 
   for(int i=0; i<E; i++){
-    int a, b;
-    cin >> a >> b;
-    matrix[a][b] = 1;
+   int X, Y;
+   cin >> X >> Y;
+   matrix[X][Y] = true;
   }
 
-  for(int i=0; i<N; i++){
-    for(int j=0; j<N; j++){
-      cout << matrix[i][j] << " ";
+  int Q;
+  cin >>Q;
+
+  for(int i=0; i<Q; i++){
+    int A, B;
+    cin >> A >> B;
+    if(A== B || matrix[A][B]){
+      cout << "YES" << endl;
+    } else 
+    {
+      cout << "NO" << endl;
     }
-    cout << endl;
   }
+ 
 
   return 0;
 }
