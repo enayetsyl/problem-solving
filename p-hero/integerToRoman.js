@@ -17,18 +17,14 @@ function integerToRoman(num) {
 
   let roman = "";
 
-  console.log(`Converting ${num} to Roman numeral:`);
 
   for (const { value, numeral } of romanMap) {
       while (num >= value) {
-          console.log(`  Adding "${numeral}" because ${num} >= ${value}`);
           roman += numeral;
           num -= value;
-          console.log(`  Remaining number: ${num}`);
       }
   }
 
-  console.log(`Final Roman numeral: ${roman}`);
   return roman;
 }
 
