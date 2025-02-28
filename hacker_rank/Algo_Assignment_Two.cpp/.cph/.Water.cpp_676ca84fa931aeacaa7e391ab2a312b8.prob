@@ -1,0 +1,1 @@
+{"name":"Local: Water","url":"c:\\problem solving\\hacker_rank\\Algo_Assignment_Two.cpp\\Water.cpp","tests":[{"id":1740713894342,"input":"2\n9\n1 8 3 4 0 7 6 5 2\n5\n5 2 1 6 3\n","output":"1 5\n0 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\problem solving\\hacker_rank\\Algo_Assignment_Two.cpp\\Water.cpp","group":"local","local":true}
