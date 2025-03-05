@@ -4,6 +4,8 @@
     "deque": "cpp",
     "vector": "cpp",
     "xstring": "cpp",
-    "ostream": "cpp"
+    "ostream": "cpp",
+    "initializer_list": "cpp",
+    "xutility": "cpp"
   }
 }
