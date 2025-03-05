@@ -1,0 +1,1 @@
+{"name":"Local: filter_and_sort_odds","url":"c:\\problem solving\\practice\\filter_and_sort_odds.cpp","tests":[{"id":1741165681342,"input":"7\n3\n6\n9\n12\n15\n18\n21","output":"21 15 9 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\problem solving\\practice\\filter_and_sort_odds.cpp","group":"local","local":true}
