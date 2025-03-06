@@ -6,6 +6,8 @@
     "xstring": "cpp",
     "ostream": "cpp",
     "initializer_list": "cpp",
-    "xutility": "cpp"
+    "xutility": "cpp",
+    "queue": "cpp",
+    "type_traits": "cpp"
   }
 }
