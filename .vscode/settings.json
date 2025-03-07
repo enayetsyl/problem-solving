@@ -8,6 +8,7 @@
     "initializer_list": "cpp",
     "xutility": "cpp",
     "queue": "cpp",
-    "type_traits": "cpp"
+    "type_traits": "cpp",
+    "algorithm": "cpp"
   }
 }
