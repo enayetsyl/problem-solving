@@ -1,0 +1,1 @@
+{"name":"Local: remove_at-any_position","url":"c:\\problem solving\\STL Practice\\remove_at-any_position.cpp","tests":[{"id":1741939726797,"input":"5\n10\n20\n30\n40\n50\n2","output":"10 20 40 50"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\problem solving\\STL Practice\\remove_at-any_position.cpp","group":"local","local":true}
