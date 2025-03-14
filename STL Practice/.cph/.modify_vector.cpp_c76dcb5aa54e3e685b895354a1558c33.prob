@@ -1,0 +1,1 @@
+{"name":"Local: modify_vector","url":"c:\\problem solving\\STL Practice\\modify_vector.cpp","tests":[{"id":1741932304507,"input":"5\n10\n20\n30\n40\n50","output":"10\n20\n30\n40\n50\n50\n40\n30\n20\n10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\problem solving\\STL Practice\\modify_vector.cpp","group":"local","local":true}
