@@ -1,0 +1,1 @@
+{"name":"Local: modify_specific_elements","url":"c:\\problem solving\\STL Practice\\modify_specific_elements.cpp","tests":[{"id":1741932880797,"input":"5\n10\n20\n30\n40\n50\n2\n100","output":"10\n20\n100\n40\n50"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\problem solving\\STL Practice\\modify_specific_elements.cpp","group":"local","local":true}
