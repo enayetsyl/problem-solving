@@ -1,0 +1,1 @@
+{"name":"Local: palindrome","url":"c:\\problem solving\\codeforces\\python\\palindrome.py","tests":[{"id":1743222893263,"input":"12121","output":"12121\nYES"},{"id":1743222961582,"input":"160","output":"61\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\problem solving\\codeforces\\python\\palindrome.py","group":"local","local":true}
